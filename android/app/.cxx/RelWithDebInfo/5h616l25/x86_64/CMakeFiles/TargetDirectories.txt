@@ -1,0 +1,2 @@
+C:/Users/raio gelado/Documents/biopoints/android/app/.cxx/RelWithDebInfo/5h616l25/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/raio gelado/Documents/biopoints/android/app/.cxx/RelWithDebInfo/5h616l25/x86_64/CMakeFiles/rebuild_cache.dir
